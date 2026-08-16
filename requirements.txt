@@ -1,0 +1,4 @@
+requests
+playwright
+urllib3
+python-dotenv

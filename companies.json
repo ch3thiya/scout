@@ -1,0 +1,7 @@
+[
+  {
+    "company_name": "Example Corp",
+    "careers_url": "https://example.com/careers",
+    "card_selector": ".job-card" 
+  }
+]
