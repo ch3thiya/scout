@@ -1,1 +1,317 @@
-[]
+[
+    {
+        "company": "Zyner",
+        "title": "Appointment Setter",
+        "url": "https://rooster.jobs/jobs/517257",
+        "reason": "Matched exact word 'intern' in parent (Depth 5): \"Appointment Setter Apply Contract Remote Growth & Marketing - Intern Apply Inter...\"",
+        "first_seen": "2026-09-11T18:24:10.179154"
+    },
+    {
+        "company": "Zyner",
+        "title": "Growth & Marketing - Intern",
+        "url": "https://rooster.jobs/jobs/447173",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:24:10.179179"
+    },
+    {
+        "company": "Zyner",
+        "title": "Motion Designer \u2013 Intern",
+        "url": "https://rooster.jobs/jobs/507266",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:24:10.179185"
+    },
+    {
+        "company": "Zyner",
+        "title": "Project Manager - Intern",
+        "url": "https://rooster.jobs/jobs/448836",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:24:10.179189"
+    },
+    {
+        "company": "Zyner",
+        "title": "UI/UX Designer - Internship",
+        "url": "https://rooster.jobs/jobs/446763",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-11T18:24:10.179193"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Process",
+        "url": "https://snapdrum.com/process",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632124"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "AI Teams",
+        "url": "https://snapdrum.com/ai-delivery-teams",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632142"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Growth",
+        "url": "https://snapdrum.com/growth",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632146"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Academy",
+        "url": "https://snapdrum.com/academy",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632149"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "AI Internship",
+        "url": "https://snapdrum.com/ai-internship",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-11T18:24:18.632153"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Case Studies",
+        "url": "https://snapdrum.com/case-studies",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632161"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Blog",
+        "url": "https://snapdrum.com/blog",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-11T18:24:18.632164"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Associate Engineer / Engineering Intern, Power Platform",
+        "url": "https://snapdrum.com/careers/8445b91d-5f5a-4eae-8464-e6fcfe8435d7/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Associate Engineer / Engineering Intern, Power Platform IT Anywhere, Worldwide A...\"",
+        "first_seen": "2026-09-11T18:24:18.632180"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Finance & Accounting Intern",
+        "url": "https://snapdrum.com/careers/280a381e-24a7-442b-9200-d7134be5c98a/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Finance & Accounting Intern Finance Anywhere, Worldwide APPLY...\"",
+        "first_seen": "2026-09-11T18:24:18.632184"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "HR Intern (Recruitment)",
+        "url": "https://snapdrum.com/careers/44759a6d-f224-476a-8196-938613f3b22e/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"HR Intern (Recruitment) Human Resources Anywhere, Worldwide APPLY...\"",
+        "first_seen": "2026-09-11T18:24:18.632188"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Management Trainee Intern (AI & Business Operations)",
+        "url": "https://snapdrum.com/careers/9de05b6c-cf38-40fc-8701-909c2528de1d/apply",
+        "reason": "Matched exact word 'trainee' in parent (Depth 2): \"Management Trainee Intern (AI & Business Operations) Operations Anywhere, Worldw...\"",
+        "first_seen": "2026-09-11T18:24:18.632191"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Sales and Ops Intern",
+        "url": "https://snapdrum.com/careers/b67d4023-f749-4f04-a772-bb64239145a0/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Sales and Ops Intern IT Anywhere, Worldwide APPLY...\"",
+        "first_seen": "2026-09-11T18:24:18.632194"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Social Media Intern",
+        "url": "https://snapdrum.com/careers/46bd617a-1392-40f4-ae65-18227cc65480/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Social Media Intern Marketing Anywhere, Worldwide APPLY...\"",
+        "first_seen": "2026-09-11T18:24:18.632199"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Strategy Intern (Tai Labs)",
+        "url": "https://snapdrum.com/careers/0373f707-b5ba-4af4-a59e-d006a1fd0e26/apply",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Strategy Intern (Tai Labs) IT Anywhere, Worldwide APPLY...\"",
+        "first_seen": "2026-09-11T18:24:18.632202"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "Business Development & Digital Marketing intern - - REF - MKT26",
+        "url": "https://www.creativesoftware.com/careers/business-development-and-digital-marketing-intern",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:24:24.314421"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Full Stack Software Engineer",
+        "url": "https://www.xeptagon.com/careers/full-stack-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"Full Stack Software Engineer  Software Engineer (Frontend)  Software Engineer (B...\"",
+        "first_seen": "2026-09-11T18:25:35.418442"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Software Engineer (Frontend)",
+        "url": "https://www.xeptagon.com/careers/frontend-software-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"Full Stack Software Engineer  Software Engineer (Frontend)  Software Engineer (B...\"",
+        "first_seen": "2026-09-11T18:25:35.418466"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Software Engineer (Backend)",
+        "url": "https://www.xeptagon.com/careers/backend-software-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"Full Stack Software Engineer  Software Engineer (Frontend)  Software Engineer (B...\"",
+        "first_seen": "2026-09-11T18:25:35.418473"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Full Stack Software Engineer - Intern",
+        "url": "https://www.xeptagon.com/careers/full-stack-engineer-intern/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:25:35.418478"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Data Scientist",
+        "url": "https://www.xeptagon.com/careers/data-scientists/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"Full Stack Software Engineer  Software Engineer (Frontend)  Software Engineer (B...\"",
+        "first_seen": "2026-09-11T18:25:35.418484"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Data Scientist Intern",
+        "url": "https://www.xeptagon.com/careers/data-science-intern/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:25:35.418490"
+    },
+    {
+        "company": "xeptagon",
+        "title": "Research and Development Engineer",
+        "url": "https://www.xeptagon.com/careers/research-and-development-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"Full Stack Software Engineer  Software Engineer (Frontend)  Software Engineer (B...\"",
+        "first_seen": "2026-09-11T18:25:35.418495"
+    },
+    {
+        "company": "en2h",
+        "title": "Intern Role (Apply Link)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfIWIyxOiZKii8mP2H-cZBOJfhhZ63UouO2g79DMDvQw1dhFg/viewform?usp=sharing&ouid=105231017309135467189",
+        "reason": "Matched exact word 'intern' in parent (Depth 5): \"FULL-TIME Business Development Executive  We\u2019re looking for a proactive and targ...\"",
+        "first_seen": "2026-09-11T18:26:03.012869"
+    },
+    {
+        "company": "en2h",
+        "title": "Intern Role (Apply Link)",
+        "url": "https://forms.gle/b4bgefstJoHX1y3k9",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"FULL-TIME Intern - Software Engineer (React Native)  We're looking for a passion...\"",
+        "first_seen": "2026-09-11T18:26:03.012888"
+    },
+    {
+        "company": "en2h",
+        "title": "Intern Role (Apply Link)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfDJ_zpBfLh9hnyfiSxXi9z8jzrqs8pNd2FiTlzahwwt-dnYA/viewform",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"FULL-TIME Intern - Software Engineer (NestJS)  We're looking for a passionate So...\"",
+        "first_seen": "2026-09-11T18:26:03.012892"
+    },
+    {
+        "company": "enactor",
+        "title": "Intern \u2013 Talent Acquisition",
+        "url": "https://enactor.co/careers/intern-talent-acquisition-lk/",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Intern \u2013 Talent Acquisition Colombo, Sri Lanka Experience : 0-1 years   View mor...\"",
+        "first_seen": "2026-09-11T18:26:10.922254"
+    },
+    {
+        "company": "enactor",
+        "title": "Role : Intern \u2013 Support",
+        "url": "https://boards.rooster.jobs/jobs/510602?source=website",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Role : Intern \u2013 SupportSri LankaExperience : 6-9 MonthsView more  ...\"",
+        "first_seen": "2026-09-11T18:26:10.922282"
+    },
+    {
+        "company": "deloitte",
+        "title": "Intern - Controls Assurance : Business Information Technology Audit",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-Intern-Controls-Assurance-Business-Information-Technology-Audit/56050544/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:26:35.089452"
+    },
+    {
+        "company": "deloitte",
+        "title": "EA - GO : Intern - Strategy & Growth",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-EA-GO-Intern-Strategy-&-Growth/59642144/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:26:35.089471"
+    },
+    {
+        "company": "codimite",
+        "title": "Trainee Business Analyst",
+        "url": "https://codimitepvt.bamboohr.com/careers/97",
+        "reason": "Matched exact word 'trainee' in parent (Depth 2): \"Product & Delivery  Trainee Business Analyst  Full-Time  Hybrid  Nugegoda, Weste...\"",
+        "first_seen": "2026-09-11T18:26:46.531703"
+    },
+    {
+        "company": "codimite",
+        "title": "Intern - Business Analyst",
+        "url": "https://codimitepvt.bamboohr.com/careers/26",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Product & Delivery  Intern - Business Analyst  Full-Time  Hybrid  Nugegoda, West...\"",
+        "first_seen": "2026-09-11T18:26:46.531727"
+    },
+    {
+        "company": "codimite",
+        "title": "Talent Acquisition Trainee/ Associate",
+        "url": "https://codimitepvt.bamboohr.com/careers/109",
+        "reason": "Matched exact word 'trainee' in parent (Depth 2): \"People & Operations  Talent Acquisition Trainee/ Associate  Full-Time  Onsite  N...\"",
+        "first_seen": "2026-09-11T18:26:46.531734"
+    },
+    {
+        "company": "codimite",
+        "title": "Intern - DevOps Engineer",
+        "url": "https://codimitepvt.bamboohr.com/careers/123",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Engineering  Intern - DevOps Engineer  Full-Time  Onsite  Nugegoda, Western  App...\"",
+        "first_seen": "2026-09-11T18:26:46.531739"
+    },
+    {
+        "company": "codimite",
+        "title": "Intern/ Trainee SE",
+        "url": "https://codimitepvt.bamboohr.com/careers/43",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Engineering  Intern/ Trainee SE  Full-Time  Hybrid  Nugegoda, Western  Apply Now...\"",
+        "first_seen": "2026-09-11T18:26:46.531746"
+    },
+    {
+        "company": "millennium it",
+        "title": "Intern - People & Culture",
+        "url": "https://www.careers-page.com/mitesp/job/63R76Y9R",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:26:55.729231"
+    },
+    {
+        "company": "ifs",
+        "title": "Accounting Intern - Full-time - S\u00e3o Paulo, S\u00e3o Paulo, Brazil - Finance",
+        "url": "https://jobs.smartrecruiters.com/IFS1/744000142665539",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:27:00.756971"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - Procurement",
+        "url": "https://wso2.com/careers/internships/intern-procurement-0/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"FINANCE Intern - Procurement Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-09-11T18:27:26.965841"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - Developer Relations",
+        "url": "https://wso2.com/careers/internships/intern-developer-relations/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"MARKETING Intern - Developer Relations Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-09-11T18:27:26.965848"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - Engineering",
+        "url": "https://wso2.com/careers/internships/engineering-intern/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"ENGINEERING Intern - Engineering Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-09-11T18:27:26.965855"
+    },
+    {
+        "company": "zillione",
+        "title": "Intern \u2013 Quality Assurance",
+        "url": "https://www.zillione.com/careers/apply?role=Intern%20%E2%80%93%20Quality%20Assurance&jobId=10",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-11T18:27:46.922293"
+    }
+]

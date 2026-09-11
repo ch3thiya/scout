@@ -1,7 +1,126 @@
 [
-  {
-    "company_name": "Example Corp",
-    "careers_url": "https://example.com/careers",
-    "card_selector": ".job-card" 
-  }
+    {
+        "company_name": "Zyner",
+        "careers_url": "https://rooster.jobs/company/152597"
+    },
+    {
+        "company_name": "Snapdrum",
+        "careers_url": "https://snapdrum.com/careers"
+    },
+    {
+        "company_name": "Creativesoftware",
+        "careers_url": "https://www.creativesoftware.com/careers"
+    },
+    {
+        "company_name": "h2o.ai",
+        "careers_url": "https://h2o.ai/company/careers/"
+    },
+    {
+        "company_name": "cms",
+        "careers_url": "https://www.cms.lk/careers/"
+    },
+    {
+        "company_name": "linearsix",
+        "careers_url": "https://www.linearsix.com/job-postings"
+    },
+    {
+        "company_name": "unilever",
+        "careers_url": "https://careers.unilever.com/en/sri-lanka"
+    },
+    {
+        "company_name": "pickme",
+        "careers_url": "https://pickme.lk/careers/"
+    },
+    {
+        "company_name": "arimac",
+        "careers_url": "https://arimac.digital/careers/"
+    },
+    {
+        "company_name": "xeptagon",
+        "careers_url": "https://www.xeptagon.com/careers/"
+    },
+    {
+        "company_name": "1billiontech",
+        "careers_url": "https://1billiontech.com/careers.php"
+    },
+    {
+        "company_name": "xeynergy",
+        "careers_url": "https://www.xeynergy.com/careers/"
+    },
+    {
+        "company_name": "en2h",
+        "careers_url": "https://www.entwoh.com/careers"
+    },
+    {
+        "company_name": "enactor",
+        "careers_url": "https://enactor.co/careers/"
+    },
+    {
+        "company_name": "ascentic",
+        "careers_url": "https://career.ascentic.se/jobs"
+    },
+    {
+        "company_name": "gapstars",
+        "careers_url": "https://gapstars.net/tech/jobs/"
+    },
+    {
+        "company_name": "lucytech",
+        "careers_url": "https://careers.lucytech.se/jobs"
+    },
+    {
+        "company_name": "deloitte",
+        "careers_url": "https://southasiacareers.deloitte.com/go/Deloitte-Sri-Lanka-and-Maldives/718344/?q=&q2=&alertId=&locationsearch=&title=intern&location=&date=#searchresults"
+    },
+    {
+        "company_name": "payable",
+        "careers_url": "https://www.payable.lk/careers"
+    },
+    {
+        "company_name": "codimite",
+        "careers_url": "https://codimite.ai/careers/#openings-section"
+    },
+    {
+        "company_name": "millennium it",
+        "careers_url": "https://www.careers-page.com/mitesp"
+    },
+    {
+        "company_name": "ifs",
+        "careers_url": "https://www.ifs.com/en/about/careers"
+    },
+    {
+        "company_name": "acendae",
+        "careers_url": "https://acendae.com/careers"
+    },
+    {
+        "company_name": "siddhify",
+        "careers_url": "https://careers.siddhify.io/"
+    },
+    {
+        "company_name": "omobio",
+        "careers_url": "https://www.omobio.net/omobio-careers/"
+    },
+    {
+        "company_name": "wso2",
+        "careers_url": "https://wso2.com/careers/internships/"
+    },
+    {
+        "company_name": "baylanka",
+        "careers_url": "https://baylanka.net/careers/"
+    },
+    {
+        "company_name": "zillione",
+        "careers_url": "https://www.zillione.com/careers#open-vacancies"
+    },
+    {
+        "company_name": "calcey",
+        "careers_url": "https://calcey.com/careers/"
+    },
+    {
+        "company_name": "surge",
+        "careers_url": "https://surge.global/careers/"
+    },
+    {
+        "company_name": "octave",
+        "careers_url": "https://www.octave.lk/our-careers/"
+    }
 ]
