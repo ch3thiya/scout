@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
-from telegram_notifier import send_telegram_notification
+from telegram_notifier import send_telegram_notification, send_status_notification
 
 COMPANIES_FILE = "companies.json"
 SEEN_JOBS_FILE = "seen_jobs.json"
@@ -203,6 +203,8 @@ def run_scraper(notify_telegram: bool = True):
         print(f"\n✅ Total new jobs added to '{SEEN_JOBS_FILE}': {new_jobs_count}")
     else:
         print("\nℹ️ No new jobs found. State is up to date.")
+        if notify_telegram:
+            send_status_notification(len(companies))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Scout Job Scraper")
