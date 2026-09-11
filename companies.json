@@ -13,15 +13,18 @@
     },
     {
         "company_name": "h2o.ai",
-        "careers_url": "https://h2o.ai/company/careers/"
+        "careers_url": "https://h2o.ai/company/careers/",
+        "keywords": ["engineer"]
     },
     {
         "company_name": "cms",
-        "careers_url": "https://www.cms.lk/careers/"
+        "careers_url": "https://www.cms.lk/careers/",
+        "keywords": ["engineer"]
     },
     {
         "company_name": "linearsix",
-        "careers_url": "https://www.linearsix.com/job-postings"
+        "careers_url": "https://www.linearsix.com/job-postings",
+        "keywords": ["engineer"]
     },
     {
         "company_name": "unilever",
@@ -29,7 +32,8 @@
     },
     {
         "company_name": "pickme",
-        "careers_url": "https://pickme.lk/careers/"
+        "careers_url": "https://pickme.lk/careers/",
+        "keywords": ["senior"]
     },
     {
         "company_name": "arimac",
@@ -57,11 +61,13 @@
     },
     {
         "company_name": "ascentic",
-        "careers_url": "https://career.ascentic.se/jobs"
+        "careers_url": "https://career.ascentic.se/jobs",
+        "keywords": ["react"]
     },
     {
         "company_name": "gapstars",
-        "careers_url": "https://gapstars.net/tech/jobs/"
+        "careers_url": "https://gapstars.net/tech/jobs/",
+        "keywords": ["senior"]
     },
     {
         "company_name": "lucytech",
@@ -73,7 +79,8 @@
     },
     {
         "company_name": "payable",
-        "careers_url": "https://www.payable.lk/careers"
+        "careers_url": "https://www.payable.lk/careers",
+        "keywords": ["senior"]
     },
     {
         "company_name": "codimite",
@@ -105,7 +112,8 @@
     },
     {
         "company_name": "baylanka",
-        "careers_url": "https://baylanka.net/careers/"
+        "careers_url": "https://baylanka.net/careers/",
+        "keywords": ["marketing"]
     },
     {
         "company_name": "zillione",
@@ -113,11 +121,13 @@
     },
     {
         "company_name": "calcey",
-        "careers_url": "https://calcey.com/careers/"
+        "careers_url": "https://calcey.com/careers/",
+        "keywords": ["senior"]
     },
     {
         "company_name": "surge",
-        "careers_url": "https://surge.global/careers/"
+        "careers_url": "https://surge.global/careers/",
+        "keywords": ["senior"]
     },
     {
         "company_name": "octave",

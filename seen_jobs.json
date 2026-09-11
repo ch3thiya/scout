@@ -313,5 +313,250 @@
         "url": "https://www.zillione.com/careers/apply?role=Intern%20%E2%80%93%20Quality%20Assurance&jobId=10",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-11T18:27:46.922293"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/v0mNFq5vAU/Customer-Support-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Customer Support Engineer Location: Montreal, QC, Canada + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151063"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/N19pUNSDfR/Customer-Support-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Customer Support Engineer Location: Ottawa, ON, Canada + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151091"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/Esb6mX044d/Customer-Support-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Customer Support Engineer Location: Toronto, ON, Canada + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151097"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/LgHJ5SpT3m/AI-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"AI Engineer Location: Germany + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151103"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/OINOlaJuB5/Product-Security-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Product Security Engineer Location: Colombo, Sri Lanka + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151110"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/n6rPj7cNoQ/Senior-Software-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Senior Software Engineer Location: Colombo, Sri Lanka + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151116"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/WJJINNPo8S/Software-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Software Engineer Location: Colombo, Sri Lanka + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151122"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/KYYJf82HLI/AI-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"AI Engineer Location: Singapore, Singapore + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151127"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/OyI6PwcZ59/AI-Engineer-Forward-Deployed?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"AI Engineer - Forward Deployed Location: Colombo, Sri Lanka + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151132"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/UnZQtem1uy/Principal-AI-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Principal AI Engineer Location: Dallas, TX + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151137"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/ygvAdyae2g/Senior-AI-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Senior AI Engineer Location: Dallas, TX + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151142"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/ZnRHQBiPpf/Senior-AI-Engineer?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Senior AI Engineer Location: San Francisco, CA + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151147"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/5YV5AVAA69/Senior-Sales-Engineer-Life-Sciences?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Senior Sales Engineer, Life Sciences Location: Boston, MA + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151152"
+    },
+    {
+        "company": "h2o.ai",
+        "title": "+ View details",
+        "url": "https://h2oai.applytojob.com/apply/wb4AfWpw2r/Senior-Sales-Engineer-Life-Sciences?source=Our%20Career%20Page%20Widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Senior Sales Engineer, Life Sciences Location: Washington DC, DC + View details...\"",
+        "first_seen": "2026-09-11T18:46:05.151157"
+    },
+    {
+        "company": "cms",
+        "title": "Apply to future opening",
+        "url": "https://cms.catsone.com/careers/index.php?m=portal&a=apply&jobOrderID=10996579&portalID=73180&widget",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Careers Experience a rewarding career with ample growth opportunities & great wo...\"",
+        "first_seen": "2026-09-11T18:46:20.590921"
+    },
+    {
+        "company": "linearsix",
+        "title": "Our Openings",
+        "url": "https://www.linearsix.com/job-postings/software-engineer---finacle/77fa91af-f967-4cc9-b304-32a8b1ed3158",
+        "reason": "Matched exact word 'engineer' in parent (Depth 2): \"Software Engineer - Finacle  Join a dynamic team working on a world-renowned cor...\"",
+        "first_seen": "2026-09-11T18:46:25.672318"
+    },
+    {
+        "company": "ascentic",
+        "title": "Talent Pool - Infra (SSE/ATL/TL/STL)",
+        "url": "https://career.ascentic.se/jobs/7032655-talent-pool-infra-sse-atl-tl-stl",
+        "reason": "Matched exact word 'react' in parent (Depth 4): \"Talent Pool - Infra (SSE/ATL/TL/STL) Software Engineering \u00b7 HQ Office, Colombo \u00b7...\"",
+        "first_seen": "2026-09-11T18:47:28.234207"
+    },
+    {
+        "company": "ascentic",
+        "title": "Talent Pool - Angular (SSE/ATL/TL/STL)",
+        "url": "https://career.ascentic.se/jobs/7032643-talent-pool-angular-sse-atl-tl-stl",
+        "reason": "Matched exact word 'react' in parent (Depth 4): \"Talent Pool - Infra (SSE/ATL/TL/STL) Software Engineering \u00b7 HQ Office, Colombo \u00b7...\"",
+        "first_seen": "2026-09-11T18:47:28.234233"
+    },
+    {
+        "company": "ascentic",
+        "title": "Talent Pool - Data Science (AI/ML)",
+        "url": "https://career.ascentic.se/jobs/7032569-talent-pool-data-science-ai-ml",
+        "reason": "Matched exact word 'react' in parent (Depth 4): \"Talent Pool - Infra (SSE/ATL/TL/STL) Software Engineering \u00b7 HQ Office, Colombo \u00b7...\"",
+        "first_seen": "2026-09-11T18:47:28.234258"
+    },
+    {
+        "company": "ascentic",
+        "title": "Talent Pool - React JS - ATL/TL/STL",
+        "url": "https://career.ascentic.se/jobs/6136028-talent-pool-react-js-atl-tl-stl",
+        "reason": "Direct match on word 'react'",
+        "first_seen": "2026-09-11T18:47:28.234264"
+    },
+    {
+        "company": "ascentic",
+        "title": "Talent Pool - .NET - ATL/TL/STL",
+        "url": "https://career.ascentic.se/jobs/6135985-talent-pool-net-atl-tl-stl",
+        "reason": "Matched exact word 'react' in parent (Depth 4): \"Talent Pool - Infra (SSE/ATL/TL/STL) Software Engineering \u00b7 HQ Office, Colombo \u00b7...\"",
+        "first_seen": "2026-09-11T18:47:28.234271"
+    },
+    {
+        "company": "gapstars",
+        "title": "Senior Software Engineer \u2013 Vue.js/.NET",
+        "url": "https://gapstars.net/tech/career-listings/job-1633/",
+        "reason": "Matched exact word 'senior' in parent (Depth 5): \"Senior Software Engineer \u2013 Vue.js/.NET Colombo Apply Now...\"",
+        "first_seen": "2026-09-11T18:47:34.880252"
+    },
+    {
+        "company": "gapstars",
+        "title": "Senior SEO Specialist",
+        "url": "https://gapstars.net/tech/career-listings/job-1629/",
+        "reason": "Matched exact word 'senior' in parent (Depth 5): \"Senior SEO Specialist Colombo Apply Now...\"",
+        "first_seen": "2026-09-11T18:47:34.880276"
+    },
+    {
+        "company": "gapstars",
+        "title": "Senior Software Engineer \u2013 C++",
+        "url": "https://gapstars.net/tech/career-listings/job-1628/",
+        "reason": "Matched exact word 'senior' in parent (Depth 5): \"Senior Software Engineer \u2013 C++ Lisbon Apply Now...\"",
+        "first_seen": "2026-09-11T18:47:34.880282"
+    },
+    {
+        "company": "gapstars",
+        "title": "Senior Technical Lead \u2013 Python",
+        "url": "https://gapstars.net/tech/career-listings/job-1597/",
+        "reason": "Matched exact word 'senior' in parent (Depth 5): \"Senior Technical Lead \u2013 Python Colombo Apply Now...\"",
+        "first_seen": "2026-09-11T18:47:34.880287"
+    },
+    {
+        "company": "payable",
+        "title": "Senior Administration Executive",
+        "url": "https://boards.rooster.jobs/jobs/519441",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:47:51.462413"
+    },
+    {
+        "company": "payable",
+        "title": "Senior Sales Executives \u2013 Field Sales",
+        "url": "https://boards.rooster.jobs/jobs/518388",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:47:51.462434"
+    },
+    {
+        "company": "payable",
+        "title": "Senior Deployment Executive",
+        "url": "https://boards.rooster.jobs/jobs/518377",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:47:51.462438"
+    },
+    {
+        "company": "payable",
+        "title": "Senior Sales Executive \u2013 Town Storming",
+        "url": "https://boards.rooster.jobs/jobs/518386",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:47:51.462442"
+    },
+    {
+        "company": "payable",
+        "title": "Senior Sales Executive \u2013 Inbound & Outbound Sales",
+        "url": "https://boards.rooster.jobs/jobs/518381",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:47:51.462446"
+    },
+    {
+        "company": "baylanka",
+        "title": "Marketing & Sales Executive (Remote | Europe-Focused)",
+        "url": "https://baylanka.net/marketing-sales-executive-remote-europe-focused/",
+        "reason": "Direct match on word 'marketing'",
+        "first_seen": "2026-09-11T18:48:46.631564"
+    },
+    {
+        "company": "baylanka",
+        "title": "A Month of Elevating user experience and strengthening team bonds",
+        "url": "https://baylanka.net/a-month-of-elevating-user-experience-and-strengthening-team-bonds/",
+        "reason": "Matched exact word 'marketing' in parent (Depth 5): \"  \t \t\t \t\t \t\tJune 22, 2025 \t \tMarketing & Sales Executive (Remote | Europe-Focuse...\"",
+        "first_seen": "2026-09-11T18:48:46.631586"
+    },
+    {
+        "company": "calcey",
+        "title": "Senior Finance Executive",
+        "url": "https://boards.rooster.jobs/jobs/519428",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:48:58.728682"
+    },
+    {
+        "company": "surge",
+        "title": "Go to Market/Business Development Internship",
+        "url": "https://boards.rooster.jobs/jobs/519504",
+        "reason": "Matched exact word 'senior' in parent (Depth 2): \"Marketing Go to Market/Business Development Internship Marketing Colombo, Sri La...\"",
+        "first_seen": "2026-09-11T18:49:03.648520"
+    },
+    {
+        "company": "surge",
+        "title": "Senior Project Manager (BFSI)",
+        "url": "https://boards.rooster.jobs/jobs/516982",
+        "reason": "Direct match on word 'senior'",
+        "first_seen": "2026-09-11T18:49:03.648549"
     }
 ]

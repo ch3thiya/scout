@@ -10,14 +10,22 @@ COMPANIES_FILE = "companies.json"
 SEEN_JOBS_FILE = "seen_jobs.json"
 
 SMART_EXTRACTOR_JS = """
-() => {
+(args) => {
+    const customKeywords = args && args.keywords && args.keywords.length > 0 ? args.keywords : null;
     const results = [];
     const links = document.querySelectorAll('a[href]');
 
     const getMatch = (text) => {
         if (!text) return null;
-        const m = text.match(/\\b(intern|interns|internship|internships|trainee|trainees)\\b/i);
-        return m ? m[0].toLowerCase() : null;
+        if (customKeywords) {
+            const pattern = customKeywords.map(k => k.replace(/[-\\/\\\\^$*+?.()|[\\]{}]/g, '\\\\$&')).join('|');
+            const regex = new RegExp('\\\\b(' + pattern + ')\\\\b', 'i');
+            const m = text.match(regex);
+            return m ? m[0].toLowerCase() : null;
+        } else {
+            const m = text.match(/\\b(intern|interns|internship|internships|trainee|trainees)\\b/i);
+            return m ? m[0].toLowerCase() : null;
+        }
     };
 
     const isActionWord = (text) => {
@@ -70,7 +78,6 @@ SMART_EXTRACTOR_JS = """
             if (ariaLabel.toLowerCase().includes('apply for')) {
                 title = ariaLabel.replace(/apply for/i, '').trim();
             } else if (isActionWord(title) || !title) {
-                // Find nearest card/item container
                 let container = a.closest('div[class*="card"], div[class*="border"], div[class*="job"], div[class*="vacancy"], div[class*="col"], li, tr, article') || a.parentElement?.parentElement;
                 let header = container?.querySelector('h1, h2, h3, h4, h5, h6, strong, [class*="title"], [class*="heading"]');
                 if (header && header.innerText.trim()) {
@@ -78,7 +85,7 @@ SMART_EXTRACTOR_JS = """
                 } else if (linkText && !isActionWord(linkText)) {
                     title = linkText;
                 } else {
-                    title = "Intern Role (Apply Link)";
+                    title = "Target Role (Apply Link)";
                 }
             }
 
@@ -106,13 +113,13 @@ def save_json(data, filename):
         json.dump(data, f, indent=4)
     print(f"💾 Saved updated state to '{filename}'.")
 
-def extract_jobs_from_site(careers_url, company_name):
+def extract_jobs_from_site(careers_url, company_name, keywords=None):
     found_jobs = []
     
     with sync_playwright() as p:
-        print(f"\n🔍 Scraping [{company_name}] ({careers_url})...")
+        kw_str = ", ".join(keywords) if keywords else "default (intern/trainee)"
+        print(f"\n🔍 Scraping [{company_name}] ({careers_url})... [Keywords: {kw_str}]")
         
-        # Launch browser with stealth settings to bypass Cloudflare bot protection
         browser = p.chromium.launch(
             headless=True,
             args=[
@@ -130,9 +137,9 @@ def extract_jobs_from_site(careers_url, company_name):
 
         try:
             page.goto(careers_url, wait_until="domcontentloaded", timeout=45000)
-            page.wait_for_timeout(3500) # Give extra time for dynamic SPA content / accordions
+            page.wait_for_timeout(3500) # Wait for dynamic rendering / accordions
             
-            raw_results = page.evaluate(SMART_EXTRACTOR_JS)
+            raw_results = page.evaluate(SMART_EXTRACTOR_JS, {"keywords": keywords})
             print(f"   Found {len(raw_results)} potential matches.")
 
             seen_urls_in_page = set()
@@ -143,7 +150,7 @@ def extract_jobs_from_site(careers_url, company_name):
                     base_url = f"{parsed_uri.scheme}://{parsed_uri.netloc}"
                     full_url = base_url + full_url
 
-                # Filter out pure tab/anchor links that are not job links (e.g. #jobs-tab-1)
+                # Filter out generic hash/navigation links
                 if '#' in full_url and not any(k in full_url.lower() for k in ['apply', 'job', 'careers', 'role', 'vacancy', 'id=']):
                     continue
 
@@ -178,11 +185,12 @@ def run_scraper(notify_telegram: bool = True):
     for company in companies:
         name = company.get('company_name', 'Unknown')
         url = company.get('careers_url', '')
+        keywords = company.get('keywords', None)
 
         if not url:
             continue
 
-        scraped_jobs = extract_jobs_from_site(url, name)
+        scraped_jobs = extract_jobs_from_site(url, name, keywords=keywords)
         
         for job in scraped_jobs:
             if job['url'] not in seen_urls:
