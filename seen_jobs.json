@@ -313,5 +313,61 @@
         "url": "https://www.zillione.com/careers/apply?role=Intern%20%E2%80%93%20Quality%20Assurance&jobId=10",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-11T18:27:46.922293"
+    },
+    {
+        "company": "Snapdrum",
+        "title": "Careers",
+        "url": "https://snapdrum.com/careers",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Process AI Teams Growth Academy AI Internship Careers Case Studies Blog Events R...\"",
+        "first_seen": "2026-09-12T12:03:08.625966"
+    },
+    {
+        "company": "wso2",
+        "title": "Home",
+        "url": "https://wso2.com/",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"                                                              Home              ...\"",
+        "first_seen": "2026-09-12T12:05:10.445859"
+    },
+    {
+        "company": "wso2",
+        "title": "Careers",
+        "url": "https://wso2.com/careers",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"                                                              Home              ...\"",
+        "first_seen": "2026-09-12T12:05:10.445864"
+    },
+    {
+        "company": "wso2",
+        "title": "WSO2 Internship Progam",
+        "url": "https://wso2.com/careers/internships/#what-s-in-it-for-you",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"WSO2 Internship Progam  Are you ready to embark on an exciting adventure with th...\"",
+        "first_seen": "2026-09-12T12:05:10.445870"
+    },
+    {
+        "company": "surge",
+        "title": "Explore all - Explore all",
+        "url": "https://www.rooster.jobs/surge",
+        "reason": "Matched exact word 'internships' in parent (Depth 2): \"Internships  Easiest gateway into Surge\u2019s team.  Software Engineering  UI/UX Des...\"",
+        "first_seen": "2026-09-12T12:05:35.110208"
+    },
+    {
+        "company": "surge",
+        "title": "Go to Market/Business Development Internship",
+        "url": "https://boards.rooster.jobs/jobs/519504",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-12T12:05:35.110213"
+    },
+    {
+        "company": "surge",
+        "title": "Senior Finance Executive",
+        "url": "https://boards.rooster.jobs/jobs/519428",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"Marketing Go to Market/Business Development Internship Marketing Colombo, Sri La...\"",
+        "first_seen": "2026-09-12T12:05:35.110215"
+    },
+    {
+        "company": "surge",
+        "title": "Senior Project Manager (BFSI)",
+        "url": "https://boards.rooster.jobs/jobs/516982",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"Marketing Go to Market/Business Development Internship Marketing Colombo, Sri La...\"",
+        "first_seen": "2026-09-12T12:05:35.110216"
     }
 ]
