@@ -369,5 +369,12 @@
         "url": "https://boards.rooster.jobs/jobs/516982",
         "reason": "Matched exact word 'internship' in parent (Depth 2): \"Marketing Go to Market/Business Development Internship Marketing Colombo, Sri La...\"",
         "first_seen": "2026-09-12T12:05:35.110216"
+    },
+    {
+        "company": "calcey",
+        "title": "Business Analysis Internship",
+        "url": "https://boards.rooster.jobs/jobs/519526",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-14T14:55:38.088757"
     }
 ]
