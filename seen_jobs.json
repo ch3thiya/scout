@@ -376,5 +376,40 @@
         "url": "https://boards.rooster.jobs/jobs/519526",
         "reason": "Direct match on word 'internship'",
         "first_seen": "2026-09-14T14:55:38.088757"
+    },
+    {
+        "company": "unilever",
+        "title": "Suggested Jobs",
+        "url": "https://careers.unilever.com/en/sri-lanka#jobs-tab-1",
+        "reason": "Matched exact word 'intern' in parent (Depth 3): \"Suggested Jobs Recently Viewed Jobs Saved Jobs Intern - Marketing Colombo, Sri L...\"",
+        "first_seen": "2026-09-15T13:20:20.692199"
+    },
+    {
+        "company": "unilever",
+        "title": "Recently Viewed Jobs",
+        "url": "https://careers.unilever.com/en/sri-lanka#jobs-tab-2",
+        "reason": "Matched exact word 'intern' in parent (Depth 3): \"Suggested Jobs Recently Viewed Jobs Saved Jobs Intern - Marketing Colombo, Sri L...\"",
+        "first_seen": "2026-09-15T13:20:20.692208"
+    },
+    {
+        "company": "unilever",
+        "title": "Saved Jobs",
+        "url": "https://careers.unilever.com/en/sri-lanka#jobs-tab-3",
+        "reason": "Matched exact word 'intern' in parent (Depth 3): \"Suggested Jobs Recently Viewed Jobs Saved Jobs Intern - Marketing Colombo, Sri L...\"",
+        "first_seen": "2026-09-15T13:20:20.692213"
+    },
+    {
+        "company": "unilever",
+        "title": "Intern - Marketing - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/intern-marketing/34155/100656114112",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-15T13:20:20.692215"
+    },
+    {
+        "company": "unilever",
+        "title": "Junior Brand Manager - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/junior-brand-manager/34155/100656114064",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Intern - Marketing Colombo, Sri Lanka Save Job Junior Brand Manager Colombo, Sri...\"",
+        "first_seen": "2026-09-15T13:20:20.692217"
     }
 ]
