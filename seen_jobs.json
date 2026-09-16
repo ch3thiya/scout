@@ -411,5 +411,26 @@
         "url": "https://careers.unilever.com/en/job/colombo/junior-brand-manager/34155/100656114064",
         "reason": "Matched exact word 'intern' in parent (Depth 2): \"Intern - Marketing Colombo, Sri Lanka Save Job Junior Brand Manager Colombo, Sri...\"",
         "first_seen": "2026-09-15T13:20:20.692217"
+    },
+    {
+        "company": "unilever",
+        "title": "Senior Executive - Human Resources Projects - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/senior-executive-human-resources-projects/34155/100700567136",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Senior Executive - Human Resources Projects Colombo, Sri Lanka Save Job Intern -...\"",
+        "first_seen": "2026-09-16T13:18:19.253912"
+    },
+    {
+        "company": "acendae",
+        "title": "HR Intern",
+        "url": "https://acendae.com/careers/hr-intern",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-16T13:19:45.304336"
+    },
+    {
+        "company": "acendae",
+        "title": "Web Developer Intern",
+        "url": "https://acendae.com/careers/web-developer-intern",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-16T13:19:45.304351"
     }
 ]
