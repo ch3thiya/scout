@@ -432,5 +432,12 @@
         "url": "https://acendae.com/careers/web-developer-intern",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-16T13:19:45.304351"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - People Operations",
+        "url": "https://wso2.com/careers/internships/intern-people-operations/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"PEOPLE OPERATIONS Intern - People Operations Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-09-17T13:16:36.974573"
     }
 ]
