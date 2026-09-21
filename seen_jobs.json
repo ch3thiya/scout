@@ -439,5 +439,12 @@
         "url": "https://wso2.com/careers/internships/intern-people-operations/",
         "reason": "Matched exact word 'intern' in parent (Depth 1): \"PEOPLE OPERATIONS Intern - People Operations Sri Lanka Intern Apply Now ...\"",
         "first_seen": "2026-09-17T13:16:36.974573"
+    },
+    {
+        "company": "unilever",
+        "title": "Intern - Customer Strategy & Planning - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/intern-customer-strategy-and-planning/34155/100931875616",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-21T14:59:08.643006"
     }
 ]
