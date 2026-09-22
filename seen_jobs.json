@@ -446,5 +446,33 @@
         "url": "https://careers.unilever.com/en/job/colombo/intern-customer-strategy-and-planning/34155/100931875616",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-21T14:59:08.643006"
+    },
+    {
+        "company": "Zyner",
+        "title": "Web Designer - Internship",
+        "url": "https://rooster.jobs/jobs/519624",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-22T13:14:47.827726"
+    },
+    {
+        "company": "Zyner",
+        "title": "Brand Designer - Internship",
+        "url": "https://rooster.jobs/jobs/519623",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-09-22T13:14:47.827733"
+    },
+    {
+        "company": "acendae",
+        "title": "Business Development Consultant",
+        "url": "https://acendae.com/careers/business-development-consultant-1",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Business Development Consultant Strong at B2B prospecting and Belgian-market pho...\"",
+        "first_seen": "2026-09-22T13:16:46.265910"
+    },
+    {
+        "company": "acendae",
+        "title": "Business Development Consultant",
+        "url": "https://acendae.com/careers/business-development-consultant",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Business Development Consultant Strong at B2B prospecting and Belgian-market pho...\"",
+        "first_seen": "2026-09-22T13:16:46.265920"
     }
 ]
