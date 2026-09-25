@@ -481,5 +481,12 @@
         "url": "https://careers.unilever.com/en/job/colombo/executive-channel-marketing-projects/34155/101067757920",
         "reason": "Matched exact word 'intern' in parent (Depth 2): \"Executive - Channel Marketing Projects Colombo, Sri Lanka Save Job Intern - Mark...\"",
         "first_seen": "2026-09-24T13:25:50.469438"
+    },
+    {
+        "company": "acendae",
+        "title": "Human Resources Intern",
+        "url": "https://acendae.com/careers/human-resources-intern",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-25T13:29:29.029130"
     }
 ]
