@@ -488,5 +488,19 @@
         "url": "https://acendae.com/careers/human-resources-intern",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-25T13:29:29.029130"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : EAID : Business Analysis Intern",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-EAID-Business-Analysis-Intern/60152244/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-28T16:38:49.153408"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : Cyber - Digital Trust & Privacy - Intern",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Cyber-Digital-Trust-&-Privacy-Intern/60152744/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-28T16:38:49.153415"
     }
 ]
