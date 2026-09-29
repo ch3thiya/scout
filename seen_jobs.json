@@ -502,5 +502,19 @@
         "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Cyber-Digital-Trust-&-Privacy-Intern/60152744/",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-28T16:38:49.153415"
+    },
+    {
+        "company": "unilever",
+        "title": "Occupational Health Projects Executive - Horana South, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/horana-south/occupational-health-projects-executive/34155/101298583616",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Occupational Health Projects Executive Horana South, Sri Lanka Save Job Executiv...\"",
+        "first_seen": "2026-09-29T14:44:52.548186"
+    },
+    {
+        "company": "deloitte",
+        "title": "TT : Engineering - Intern - Assets Management",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-TT-Engineering-Intern-Assets-Management/60178744/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-09-29T14:45:54.697605"
     }
 ]
