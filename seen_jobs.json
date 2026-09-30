@@ -516,5 +516,12 @@
         "url": "https://southasiacareers.deloitte.com/job/Colombo-TT-Engineering-Intern-Assets-Management/60178744/",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-09-29T14:45:54.697605"
+    },
+    {
+        "company": "unilever",
+        "title": "Account Manager - General Trade - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/account-manager-general-trade/34155/101345265680",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Account Manager - General Trade Colombo, Sri Lanka Save Job Occupational Health ...\"",
+        "first_seen": "2026-09-30T14:46:59.323801"
     }
 ]
