@@ -530,5 +530,12 @@
         "url": "https://jobs.smartrecruiters.com/IFS1/744000152961739",
         "reason": "Direct match on word 'trainee'",
         "first_seen": "2026-10-01T15:25:01.096232"
+    },
+    {
+        "company": "unilever",
+        "title": "Account Manager - Distributive Trade - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/account-manager-distributive-trade/34155/101559582896",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Intern - Marketing Colombo, Sri Lanka Save Job Account Manager - Distributive Tr...\"",
+        "first_seen": "2026-10-06T14:56:07.186007"
     }
 ]
