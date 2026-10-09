@@ -544,5 +544,19 @@
         "url": "https://jobs.smartrecruiters.com/IFS1/744000153828652",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-10-07T15:24:27.139707"
+    },
+    {
+        "company": "deloitte",
+        "title": "Intern - Talent",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-Intern-Talent/47998444/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-09T15:09:09.158163"
+    },
+    {
+        "company": "millennium it",
+        "title": "Intern - Managed Services",
+        "url": "https://www.careers-page.com/mitesp/job/937Y5WV6",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-09T15:09:24.579953"
     }
 ]
