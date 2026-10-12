@@ -558,5 +558,68 @@
         "url": "https://www.careers-page.com/mitesp/job/937Y5WV6",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-10-09T15:09:24.579953"
+    },
+    {
+        "company": "unilever",
+        "title": "HR Executive - Factory Employee Relations & Wellbeing Projects - Horana South, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/horana-south/hr-executive-factory-employee-relations-and-wellbeing-projects/34155/101851439344",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"HR Executive - Factory Employee Relations & Wellbeing Projects Horana South, Sri...\"",
+        "first_seen": "2026-10-12T17:36:37.875833"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/senior-data-scientist/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694445"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/senior-engineer-associate-lead-devops/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694453"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/senior-software-engineer-java/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694455"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/intern-project-management/",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Engineering Intern \u2013 Project Management Colombo View Position...\"",
+        "first_seen": "2026-10-12T17:36:42.694456"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/senior-database-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694459"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/product-manager/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694461"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/senior-devops-engineer/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694462"
+    },
+    {
+        "company": "pickme",
+        "title": "View Position",
+        "url": "https://pickme.lk/vacancy/business-intelligence-bi-analyst/",
+        "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
+        "first_seen": "2026-10-12T17:36:42.694464"
     }
 ]
