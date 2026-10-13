@@ -621,5 +621,12 @@
         "url": "https://pickme.lk/vacancy/business-intelligence-bi-analyst/",
         "reason": "Matched exact word 'intern' in parent (Depth 4): \"Engineering Senior Data Scientist Colombo View Position Engineering Senior Engin...\"",
         "first_seen": "2026-10-12T17:36:42.694464"
+    },
+    {
+        "company": "unilever",
+        "title": "Assistant Supply Chain Finance Manager - Manufacturing - Colombo, Sri Lanka",
+        "url": "https://careers.unilever.com/en/job/colombo/assistant-supply-chain-finance-manager-manufacturing/34155/101898341120",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Assistant Supply Chain Finance Manager - Manufacturing Colombo, Sri Lanka Save J...\"",
+        "first_seen": "2026-10-13T15:45:45.567673"
     }
 ]
