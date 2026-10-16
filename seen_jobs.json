@@ -628,5 +628,12 @@
         "url": "https://careers.unilever.com/en/job/colombo/assistant-supply-chain-finance-manager-manufacturing/34155/101898341120",
         "reason": "Matched exact word 'intern' in parent (Depth 2): \"Assistant Supply Chain Finance Manager - Manufacturing Colombo, Sri Lanka Save J...\"",
         "first_seen": "2026-10-13T15:45:45.567673"
+    },
+    {
+        "company": "deloitte",
+        "title": "Intern - Control Assurance",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-Intern-Control-Assurance/56050844/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-16T13:08:05.941506"
     }
 ]
