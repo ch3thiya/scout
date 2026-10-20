@@ -649,5 +649,54 @@
         "url": "https://jobs.smartrecruiters.com/IFS1/744000156231689",
         "reason": "Direct match on word 'trainee'",
         "first_seen": "2026-10-19T15:26:14.162361"
+    },
+    {
+        "company": "1billiontech",
+        "title": "All",
+        "url": "https://1billiontech.com/careers.php#",
+        "reason": "Matched exact word 'intern' in parent (Depth 3): \"All Dynamics 365 F&O Performance Tester Human Resources Dynamics 365 F&O Perform...\"",
+        "first_seen": "2026-10-20T13:28:10.971330"
+    },
+    {
+        "company": "1billiontech",
+        "title": "Dynamics 365 F&O Performance - Tester",
+        "url": "https://1billiontech.com/careers_Dynamics_365_F&O_Performance_Tester.php",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Dynamics 365 F&O Performance Tester Intern \u2013 Human Resources...\"",
+        "first_seen": "2026-10-20T13:28:10.971341"
+    },
+    {
+        "company": "1billiontech",
+        "title": "Intern \u2013 Human Resources",
+        "url": "https://1billiontech.com/careers_Intern_Human_Resources.php",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-20T13:28:10.971343"
+    },
+    {
+        "company": "deloitte",
+        "title": "EA : Intern - Talent Operations",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-EA-Intern-Talent-Operations/47998444/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-20T13:28:50.743712"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : Engineering - Intern - Assets Management",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Engineering-Intern-Assets-Management/60178744/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-20T13:28:50.743715"
+    },
+    {
+        "company": "deloitte",
+        "title": "EA : Intern - Talent Acquisition",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-EA-Intern-Talent-Acquisition/55162844/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-20T13:28:50.743724"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : Human Capital - Intern",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Human-Capital-Intern/52125144/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-20T13:28:50.743727"
     }
 ]
