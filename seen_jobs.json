@@ -698,5 +698,12 @@
         "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Human-Capital-Intern/52125144/",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-10-20T13:28:50.743727"
+    },
+    {
+        "company": "1billiontech",
+        "title": "Business Development Executive \u2013 IT Sales (Local)",
+        "url": "https://1billiontech.com/careers_Business_Development_Executive_IT_Sales.php",
+        "reason": "Matched exact word 'intern' in parent (Depth 2): \"Dynamics 365 F&O Performance Tester Intern \u2013 Human Resources Business Developmen...\"",
+        "first_seen": "2026-10-27T14:14:47.005320"
     }
 ]
