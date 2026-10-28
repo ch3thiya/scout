@@ -705,5 +705,26 @@
         "url": "https://1billiontech.com/careers_Business_Development_Executive_IT_Sales.php",
         "reason": "Matched exact word 'intern' in parent (Depth 2): \"Dynamics 365 F&O Performance Tester Intern \u2013 Human Resources Business Developmen...\"",
         "first_seen": "2026-10-27T14:14:47.005320"
+    },
+    {
+        "company": "deloitte",
+        "title": "EA : IAG : Intern - Internal Development",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-EA-IAG-Intern-Internal-Development/61062544/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-28T14:59:37.297398"
+    },
+    {
+        "company": "millennium it",
+        "title": "Intern - Cyber Security",
+        "url": "https://www.careers-page.com/mitesp/job/W396489W",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-28T14:59:52.601937"
+    },
+    {
+        "company": "millennium it",
+        "title": "Intern - Finance (Treasury)",
+        "url": "https://www.careers-page.com/mitesp/job/7X74VX65",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-10-28T14:59:52.601947"
     }
 ]
