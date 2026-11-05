@@ -747,5 +747,12 @@
         "url": "https://jobs.smartrecruiters.com/IFS1/744000159552434",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-11-04T16:06:41.578298"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : EAID : Engineering - Assets Management Intern",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-EAID-Engineering-Assets-Management-Intern/60178744/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-11-05T16:20:17.513429"
     }
 ]
