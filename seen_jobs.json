@@ -761,5 +761,40 @@
         "url": "https://boards.rooster.jobs/jobs/520073",
         "reason": "Direct match on word 'internship'",
         "first_seen": "2026-11-06T15:50:25.770823"
+    },
+    {
+        "company": "wso2",
+        "title": "Home",
+        "url": "https://choreolabs.com/",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"                                                              Home              ...\"",
+        "first_seen": "2026-11-17T17:32:22.084686"
+    },
+    {
+        "company": "wso2",
+        "title": "Careers",
+        "url": "https://choreolabs.com/careers",
+        "reason": "Matched exact word 'internship' in parent (Depth 2): \"                                                              Home              ...\"",
+        "first_seen": "2026-11-17T17:32:22.084696"
+    },
+    {
+        "company": "wso2",
+        "title": "Choreo Labs internship progam",
+        "url": "https://choreolabs.com/careers/internships/#what-s-in-it-for-you",
+        "reason": "Matched exact word 'internship' in parent (Depth 1): \"Choreo Labs internship progam  Are you ready to embark on an exciting adventure ...\"",
+        "first_seen": "2026-11-17T17:32:22.084701"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - people operations",
+        "url": "https://choreolabs.com/careers/internships/intern-people-operations/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"PEOPLE OPERATIONS Intern - people operations Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-11-17T17:32:22.084702"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - engineering",
+        "url": "https://choreolabs.com/careers/internships/engineering-intern/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"ENGINEERING Intern - engineering Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-11-17T17:32:22.084705"
     }
 ]
