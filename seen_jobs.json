@@ -796,5 +796,12 @@
         "url": "https://choreolabs.com/careers/internships/engineering-intern/",
         "reason": "Matched exact word 'intern' in parent (Depth 1): \"ENGINEERING Intern - engineering Sri Lanka Intern Apply Now ...\"",
         "first_seen": "2026-11-17T17:32:22.084705"
+    },
+    {
+        "company": "Zyner",
+        "title": "Content Writer - Internship",
+        "url": "https://rooster.jobs/jobs/520159",
+        "reason": "Direct match on word 'internship'",
+        "first_seen": "2026-11-22T16:04:31.196833"
     }
 ]
