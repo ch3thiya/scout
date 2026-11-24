@@ -803,5 +803,12 @@
         "url": "https://rooster.jobs/jobs/520159",
         "reason": "Direct match on word 'internship'",
         "first_seen": "2026-11-22T16:04:31.196833"
+    },
+    {
+        "company": "deloitte",
+        "title": "T&T : Business Development - Intern",
+        "url": "https://southasiacareers.deloitte.com/job/Colombo-T&T-Business-Development-Intern/45097744/",
+        "reason": "Direct match on word 'intern'",
+        "first_seen": "2026-11-24T19:27:49.369441"
     }
 ]
