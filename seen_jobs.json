@@ -817,5 +817,47 @@
         "url": "https://jobs.smartrecruiters.com/IFS1/744000163669690",
         "reason": "Direct match on word 'intern'",
         "first_seen": "2026-11-25T18:34:02.763044"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "See open positions",
+        "url": "https://www.creativesoftware.com/careers#openvac",
+        "reason": "Matched exact word 'internships' in parent (Depth 4): \"Careers at Creative Software Ready to build impactful software? Join Creative So...\"",
+        "first_seen": "2026-11-27T17:58:25.323200"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "Life at Creative Software",
+        "url": "https://www.creativesoftware.com/careers#life",
+        "reason": "Matched exact word 'internships' in parent (Depth 4): \"Careers at Creative Software Ready to build impactful software? Join Creative So...\"",
+        "first_seen": "2026-11-27T17:58:25.323210"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "\u25b6",
+        "url": "https://www.creativesoftware.com/careers#",
+        "reason": "Matched exact word 'internships' in parent (Depth 2): \"\u25b6 Life at Creative Software Meet the people, the office and the culture behind o...\"",
+        "first_seen": "2026-11-27T17:58:25.323213"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "More videos \u2197",
+        "url": "https://www.youtube.com/channel/UCTzXDtmYxt8HzdbUPEFVYwA",
+        "reason": "Matched exact word 'internships' in parent (Depth 3): \"\u25b6 Life at Creative Software Meet the people, the office and the culture behind o...\"",
+        "first_seen": "2026-11-27T17:58:25.323215"
+    },
+    {
+        "company": "Creativesoftware",
+        "title": "Explore internships \u2197",
+        "url": "https://www.creativesoftware.com/university-relations",
+        "reason": "Direct match on word 'internships'",
+        "first_seen": "2026-11-27T17:58:25.323217"
+    },
+    {
+        "company": "wso2",
+        "title": "Intern - Security Operations Center",
+        "url": "https://choreolabs.com/careers/internships/intern-security-operations-center/",
+        "reason": "Matched exact word 'intern' in parent (Depth 1): \"CUSTOMER SUCCESS Intern - Security Operations Center Sri Lanka Intern Apply Now ...\"",
+        "first_seen": "2026-11-27T18:00:36.243994"
     }
 ]
